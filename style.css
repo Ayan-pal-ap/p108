@@ -1,0 +1,14 @@
+body{
+    font-family: 'Rampart One', cursive;
+}
+.mybtn{
+    font-family: 'Ubuntu', sans-serif;
+}
+.header{
+    background:yellowgreen;
+}
+.copy_right_footer{
+    color: blue;
+    text-shadow: coral 5px 5px 5px;
+    bottom: 0px;
+}
